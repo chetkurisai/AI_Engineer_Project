@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # AI Project Basic — Part 1
 
 ## 📌 Overview
@@ -12,3 +13,6 @@ Initial setup for the AI Project:
 =======
 # AI_Engineer_Project
 >>>>>>> 9a7b42f7bf42ab822ac3c8ca87efb3e53be7e0d8
+=======
+
+>>>>>>> e3c77c0513eabd1d950086969db71d18ec3cbb40
